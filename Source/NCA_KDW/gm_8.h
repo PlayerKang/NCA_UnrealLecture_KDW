@@ -14,4 +14,6 @@ class NCA_KDW_API Agm_8 : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	Agm_8();
 };
